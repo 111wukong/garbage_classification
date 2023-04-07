@@ -1,19 +1,9 @@
-百度网盘链接及提取码：  
-
-链接：https://pan.baidu.com/s/1HKpgakNx1hNlOuZJuW6T1w   
-
-提取码：wylx 
-
 
 # 一个垃圾分类项目带你玩转飞桨多个产品（1）
 - 基于PaddleClas实现垃圾分类，导出inference模型并利用PaddleHub Serving进行服务化部署。
 
 >点击上方Fork可以运行本项目
 
-## 大家先看看效果哈
-[bilibili视频地址](https://www.bilibili.com/video/BV1354y1b7H7/)
-![](https://ai-studio-static-online.cdn.bcebos.com/8f495a0e4a414990b94f82182f5e673c313f48813d454061b8e30d6ab3b472be)
-![](https://ai-studio-static-online.cdn.bcebos.com/ea6497e4cd05412caa76d10ca80d2d53378ef320a73f4638b2216864a1f59787)
 
 
 ## 背景介绍
@@ -271,17 +261,3 @@ hub serving start -c config.json
 - 本项目基于PaddleHub Serving 实现了服务部署。
 - 本项目后绪将结合PaddleHub增加语音播报功能，提高用户体验。
 
-### 个人相关介绍
-- 笔名：左右
-- 华东理工大学自动化专业大二在读
-- 号称：冷板凳常客
-
-- 热衷于利用人工智能技术做点有价值的东西，为社会做点小事情；
-- 另外也研究点多智能体
-- 偶尔写点随笔、摄影、仰望星空...
-
-[AiStudio主页，欢迎互关哟](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/383005)  
-
-[Github主页，欢迎互关哟](https://github.com/thomas-yanxin)  
-
-[CSDN主页，欢迎互关哟](https://blog.csdn.net/Mefishes?spm=1000.2115.3001.5343)  
